@@ -1,57 +1,58 @@
-## Hi there 👋
+_[Read this in English](en-US.md)_
 
-Welcome to **Caramelo Tech** - a cozy corner of the internet where friends come together to **learn, build, and share knowledge** 💛
+## Olá! 👋
 
-We’re more than just a tech group - we’re a **community of curious minds** who love creating things, helping each other grow, and having fun along the way 🚀
+Bem-vindo à **Caramelo Tech** - um cantinho aconchegante da internet onde amigos se reúnem para **aprender, construir e compartilhar conhecimento** 💛
 
-### 🌍 Who we are
+Somos mais do que um grupo de tecnologia - somos uma **comunidade de mentes curiosas** que adora criar coisas, ajudar uns aos outros a crescer e se divertir ao longo do caminho 🚀
 
-Most of us are based in **Fortaleza, Ceará (Brazil)**, but we’re open to anyone around the world who wants to collaborate 🌎✨
+### 🌍 Quem somos
 
-Whether you're a beginner or experienced, if you’re excited about building cool stuff - **you belong here!**
+A maioria de nós está em **Fortaleza, Ceará (Brasil)**, mas estamos abertos a qualquer pessoa do mundo que queira colaborar 🌎✨
 
-### 👩‍💻👨‍💻 What we do
+Seja você iniciante ou experiente, se você se empolga em construir coisas legais - **você pertence a este lugar!**
 
-- 🤝 Exchange knowledge and experiences
-- 🛠️ Build projects together
-- 🌱 Learn new technologies
-- 💡 Experiment with ideas
-- 🧪 Contribute to open source
+### 👩‍💻👨‍💻 O que fazemos
 
-Most of our projects are **open source**, so feel free to explore, learn, and contribute!
+- 🤝 Trocamos conhecimento e experiências
+- 🛠️ Construímos projetos juntos
+- 🌱 Aprendemos novas tecnologias
+- 💡 Experimentamos ideias
+- 🧪 Contribuímos com open source
 
+A maioria dos nossos projetos é **open source**, então sinta-se à vontade para explorar, aprender e contribuir!
 
-| We’re a diverse mix of tech enthusiasts, including | Working across different technologies like |
-| -------------------------------------------------- | ------------------------------------------ |
-| 🧪 QA Engineers                                    | ⚡ JavaScript                              |
-| 🖥️ Backend Developers                              | ☕ Java                                    |
-| 🎨 Frontend Developers                             | 🧬 Clojure                                 |
-| 🔄 Fullstack Developers                            | 🐘 PHP                                     |
-| ✏️ Illustrators & Designers                        | ...and more!                               |
+| Somos um mix diverso de entusiastas de tecnologia | Trabalhando com diferentes tecnologias como |
+| ------------------------------------------------- | ------------------------------------------- |
+| 🧪 QA Engineers                                   | ⚡ JavaScript                               |
+| 🖥️ Desenvolvedores Backend                        | ☕ Java                                     |
+| 🎨 Desenvolvedores Frontend                       | 🧬 Clojure                                  |
+| 🔄 Desenvolvedores Fullstack                      | 🐘 PHP                                      |
+| ✏️ Ilustradores & Designers                       | ...e mais!                                  |
 
-#### 📂 Explore our projects
+#### 📂 Explore nossos projetos
 
-Take a look at our repositories to see what we’re building 👀
-You might find something interesting to contribute to - or get inspired to start your own!
+Dê uma olhada nos nossos repositórios para ver o que estamos construindo 👀
+Você pode encontrar algo interessante para contribuir - ou se inspirar para começar o seu próprio!
 
-### 🤝 How to contribute
+### 🤝 Como contribuir
 
-- ⭐ Star the repos you like
-- 🐛 Open issues
-- 🔧 Submit pull requests
-- 💬 Share ideas
+- ⭐ Dê estrela nos repositórios que você gostar
+- 🐛 Abra issues
+- 🔧 Envie pull requests
+- 💬 Compartilhe ideias
 
-No contribution is too small - **we grow together!**
+Nenhuma contribuição é pequena demais - **crescemos juntos!**
 
-### 🚀 Join us!
+### 🚀 Junte-se a nós!
 
-We believe in:
+Acreditamos em:
 
-- 🫶 Collaboration over competition
-- 📚 Learning by doing
-- 🧩 Diversity of ideas and people
-- 🐶 Having fun while coding
+- 🫶 Colaboração ao invés de competição
+- 📚 Aprender fazendo
+- 🧩 Diversidade de ideias e pessoas
+- 🐶 Se divertir enquanto programa
 
-If you're passionate about technology and community, come be part of **[Caramelo Tech](https://www.instagram.com/caramelo_tech)**!
+Se você é apaixonado por tecnologia e comunidade, venha fazer parte da **[Caramelo Tech](https://www.instagram.com/caramelo_tech)**!
 
-Let’s build something awesome together 🍮✨
+Vamos construir algo incrível juntos 🍮✨
